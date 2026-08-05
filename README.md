@@ -1,1 +1,1 @@
-site: https://seb1kz.github.io/xfxfc.io/
+https://seb1kz.github.io/website/
